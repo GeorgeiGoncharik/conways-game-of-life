@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SimpleGameOfLife</string>
+    <string name="game_life">Жизнь</string>
+    <string name="info_toolbar_name">Правила игры</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="clear">Очистить</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="game_life_intro">игра Жизнь</string>
+    <string name="logo">logo</string>
+    <string name="сonways_model">клеточный автомат Конвея</string>
+    <string name="load_from_camera">Загрузить с камеры</string>
+    <string name="load_from_gallery">Загрузить с галереи</string>
+    <string name="game_of_life_description">Игра "Жизнь" представляет собой клеточный автомат, разработанный британским математиком Джоном Конвеем в 1970 году.</string>
+    <string name="what_is_the_game_of_life">Что такое игра "Жизнь"?</string>
+    <string name="game_rules">Правила игры:</string>
+    <string name="rules_explanation">1.\tЛюбая живая клетка с менее чем двумя живыми соседями умирает, словно из-за малонаселенности.
+    \n\n2.\tЛюбая живая клетка с двумя-тремя живыми соседями живет до следующего поколения.
+    \n\n3.\tЛюбая живая клетка с более чем тремя живыми соседями умирает, словно из-за перенаселенности.
+    \n\n4.\tЛюбая мертвая клетка с ровно тремя живыми соседями становится живой клеткой, имитируя репродукцию.
+    </string>
+    <string name="intro_welcome">Добро пожаловать \nИгра "Жизнь"</string>
+    <string name="rules_speak">Очень просто, не правда ли?</string>
+</resources>

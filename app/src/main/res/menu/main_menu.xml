@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_start"
+        android:icon="@drawable/baseline_play_arrow_24"
+        android:iconTint="#FFFFFF"
+        android:title="@string/start"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_stop"
+        android:icon="@drawable/baseline_pause_24"
+        android:iconTint="#FFFFFF"
+        android:title="@string/stop"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_clear"
+        android:icon="@drawable/baseline_clear_24"
+        android:iconTint="#FFFFFF"
+        android:title="@string/clear"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_camera"
+        android:iconTint="#FFFFFF"
+        android:title="@string/load_from_camera"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_info"
+        android:icon="@drawable/baseline_help_outline_24"
+        android:iconTint="#FFFFFF"
+        android:title="@string/info_toolbar_name"
+        app:showAsAction="never" />
+
+</menu>
